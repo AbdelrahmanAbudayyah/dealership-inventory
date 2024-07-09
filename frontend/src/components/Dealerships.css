@@ -1,0 +1,28 @@
+#outer-container {
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+
+#sidebar {
+	display: table-cell;
+	width: 15%;
+	vertical-align: top;
+    padding-left: 20px; 
+    background-color: rgb(167, 167, 167);
+}
+
+#content {
+	display: table-cell;
+	width: 85%;
+	vertical-align: top;
+}
+
+
+#mySelect{
+    margin-left: 15px;
+    margin-right: 3px;
+
+
+
+}

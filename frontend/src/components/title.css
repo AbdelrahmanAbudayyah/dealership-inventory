@@ -1,0 +1,31 @@
+
+#header_div2 ul{
+    list-style-type: none;
+   height: 40px;
+    text-align: left;
+    background-color:rgb(136, 136, 136);
+}
+
+#header_div2 ul li{
+   display: inline-block;
+   margin-right:2% ;
+   margin-left: 1%;
+   margin-top: 0.5%;
+}
+
+#header_div2 ul a {
+    text-decoration: none;
+    color: black;
+    font-size: 0.8em;
+    margin-left: 0px;
+ }
+
+ #header_div2 li:hover{
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+#a1{
+    margin-left: 18cm;
+    text-align: center;
+
+
+}       
